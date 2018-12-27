@@ -1,0 +1,4 @@
+export const CATCH_ERROR = 'CATCH_ERROR';
+export const HIDE_NOTIFICATION = 'HIDE_NOTIFICATION';
+export const LOADING = 'LOADING';
+export const HIDE_LOADING = 'HIDE_LOADING';

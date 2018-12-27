@@ -1,5 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Demo: https://task-management-react.firebaseapp.com/
+
+email: siestov.valeriy@gmail.com
+password: 111111
+
+## Project setup
+
+```
+yarn install
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
